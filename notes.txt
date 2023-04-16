@@ -1,3 +1,0 @@
-Tidak selalu. Keputusan untuk menolak atau gagal menolak H0 tergantung pada hipotesis alternatif yang Anda pilih. Jika hipotesis alternatif adalah H1: μ < nilai hipotesis nol, maka Anda akan menolak H0 jika Z < Z_critical. Namun, jika hipotesis alternatif adalah H1: μ > nilai hipotesis nol, maka Anda akan menolak H0 jika Z > -Z_critical.
-
-Untuk hipotesis alternatif dua sisi, yaitu H1: μ ≠ nilai hipotesis nol, Anda akan menolak H0 jika nilai absolut dari Z lebih besar dari nilai absolut dari Z_critical.
